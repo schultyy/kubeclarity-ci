@@ -1,5 +1,4 @@
-# Pokemon API
+# KubeClarity in your CI/CD Workflow
 
-Example source code for [https://dev.to/ciscoemerge/building-secure-docker-images-for-production-best-practices-5d0f](https://dev.to/ciscoemerge/building-secure-docker-images-for-production-best-practices-5d0f).
-
+Example Code and GitHub Action workflow for https://dev.to/ciscoemerge/kubeclarity-in-action-image-scanning-as-part-of-your-ci-workflow-1oc5
 
