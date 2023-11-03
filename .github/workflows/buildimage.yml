@@ -9,7 +9,7 @@ on:
 env:
     BACKEND_HOST: kubeclarity-kubeclarity.kubeclarity.svc.cluster.local:8080
     BACKEND_DISABLE_TLS: true
-    KUBECLARITY_APP_ID: f5c70d3d-bdcf-5b82-81d1-828db22e4473
+    KUBECLARITY_APP_ID: b58c58a9-b8ab-5b7f-ba69-e897034f9251
 
 jobs:
   buildimage:
